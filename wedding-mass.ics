@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jesse&Marisela//E-Invite//EN
+BEGIN:VEVENT
+UID:Wedding Mass — San Secondo d’Asti Catholic Church-2025-10-25@jesseandmarisela.com
+SUMMARY:Wedding Mass — San Secondo d’Asti Catholic Church
+DTSTART;TZID=America/Los_Angeles:20251025T110000
+DTEND;TZID=America/Los_Angeles:20251025T130000
+LOCATION:250 N. Turner Avenue, Guasti (Ontario), CA 91761
+DESCRIPTION:RSVP at https://www.jesseandmarisela.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jesse&Marisela//E-Invite//EN
+BEGIN:VEVENT
+UID:Reception — St. Patrick Church-2025-10-25@jesseandmarisela.com
+SUMMARY:Reception — St. Patrick Church
+DTSTART;TZID=America/Los_Angeles:20251025T160000
+DTEND;TZID=America/Los_Angeles:20251025T200000
+LOCATION:10915 Pigeon Pass Rd, Moreno Valley, CA 92557
+DESCRIPTION:RSVP at https://www.jesseandmarisela.com
+END:VEVENT
+END:VCALENDAR
